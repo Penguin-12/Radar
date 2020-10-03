@@ -1,0 +1,54 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "Penguin-12",
+      "name": "Josh Wadhwa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54632810?v=4",
+      "profile": "https://github.com/Penguin-12",
+      "contributions": [
+        "code",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "akshatgarg18",
+      "name": "Akshat Garg",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60299232?v=4",
+      "profile": "https://github.com/akshatgarg18",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "pavankalyan0424",
+      "name": "Addepalli N M PavanKalyan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57014239?v=4",
+      "profile": "https://github.com/pavankalyan0424",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "error404-beep",
+      "name": "Abheek Mathur",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/59912588?v=4",
+      "profile": "https://github.com/error404-beep",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 5,
+  "projectName": "Radar",
+  "projectOwner": "bitsacm",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
